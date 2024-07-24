@@ -49,6 +49,16 @@ console.log((b -= 2));
 // Activity 3: Comparision Operators
 // Task 8: write a program to compare two numbers using > and < and log the result to the console.
 
+let x = 5;
+let y = 6;
+if (x > y){
+    console.log("x is greater than y");
+}else if(x < y) {
+    console.log("x is smaller than y");
+
+}else{
+    console.log("better luck next time");
+}
 
 
 // Task 9: write a program to compare two numbers using >= and <= and log the result to the console.
