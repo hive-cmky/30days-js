@@ -62,19 +62,35 @@ if (x > y){
 
 
 // Task 9: write a program to compare two numbers using >= and <= and log the result to the console.
-
-
+let grade = 85;
+if(grade >= 80 && grade <= 90){
+    console.log("Your result is: " + "A.");
+}
 
 // Task 10: write a program to compare two numbers using == and === and log the result to the console.
-
+let p = "apple";
+let q = "apple";
+console.log(p == q);
+console.log(p === q);
 // Activity 4: Logical operators
 // Task 11: write a program that uses the && operator to combine two conditions and log the result to the console.
+const m = 2;
+const n = -3;
+console.log(m > 0 && n >0);
 // Task 12: write a program that uses the || operator to combine two conditions and log the result to the console.
+const j = 2;
+const k = -2;
+console.log(j > 0 || k > 0);
 // Task 13: write a program that uses the ! operator to negate a condition and log the result to the console.
-
+console.log(!(j > 0 || k > 0));
 // Activity 5: Ternary operator
 // Task 14: write a program that uses the ternary operator to check if a number is positive or negative and log the result to the console.
 
+function getFee(isMember){
+    return isMember ? "$2.00" : "$10.00";
+}
+console.log(getFee(true));
+console.log(getFee(false));
 
 // Feature Request:
 // 1. arithmetic operations script: write a script that performs
