@@ -62,6 +62,9 @@ if (x > y){
 
 
 // Task 9: write a program to compare two numbers using >= and <= and log the result to the console.
+
+
+
 // Task 10: write a program to compare two numbers using == and === and log the result to the console.
 
 // Activity 4: Logical operators
