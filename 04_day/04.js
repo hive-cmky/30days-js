@@ -27,3 +27,11 @@ while(numbers > 0){
     numbers--;
 }
 
+// Activity 3: Do...While loop
+// Task 5: Write a program to print numbers from 1 to 5 using a do...while loop
+let counter = 1;
+do {
+    console.log(counter)
+    counter++;
+}while(counter <= 5)
+
