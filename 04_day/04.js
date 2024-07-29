@@ -35,3 +35,17 @@ do {
     counter++;
 }while(counter <= 5)
 
+// Task 6: Write a program to calculate the factorial of a number using a do...while loop
+let factorial = 1;
+let fact =1;
+do {
+    factorial *= fact;
+    fact++;
+}while(fact >= 5);
+
+// Activity 4: Nested Loops
+// Task 7: Write a program to print a pattern using nested for loop
+
+// Activity 5: Loop Control Statements
+// Task 8: write a program to print the numbers from 1 to 10, but skip the number 5 using the continue statement.
+// Task 9: write a program to print the numbers from 1 to 10, but stop the loop when number is 7 using break statement.
