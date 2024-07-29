@@ -21,4 +21,9 @@ while( i < 10){
 console.log(sum);
 
 // Task 4: Write a program to print numbers from 10 to 1 using while loop
+let numbers = 10;
+while(numbers > 0){
+    console.log(numbers);
+    numbers--;
+}
 
