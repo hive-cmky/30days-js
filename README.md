@@ -12,7 +12,7 @@ You can find the challenge details and sign up [here](https://courses.chaicode.c
 
 ## Contact Me
 
-- Twitter: [](https://twitter.com/)
+- Twitter: [@ftw_mabhi](https://twitter.com/)
 - GitHub: [](https://github.com/)
 - LinkedIn: [](https://www.linkedin.com/in/)
 
